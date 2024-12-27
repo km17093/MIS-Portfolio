@@ -1,0 +1,43 @@
+{
+  "basics": {
+    "name": "Keoni Minami",
+    "label": "Shidler Undergraduate",
+    "picture": "img/download.png",
+    "email": "km284@hawaii.edu",
+    "website": "https://km17093.github.io",
+    "summary": "",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "km17093", "url": "http://github.com/km17093" }
+    ]
+  },
+  "interests": [
+    { "name": "Video Games" },
+    { "name": "Watching YouTube" },
+    { "name": "Cybersecurity" }
+  ],
+  "education": [
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
